@@ -1,0 +1,73 @@
+.container-fluid{
+
+}
+
+.num1{
+background-color: blue;
+height: 60px;
+}
+
+.num2{
+  background-color: green;
+  height: 60px;
+}
+.num3{
+  background-color: red;
+  height: 500px;
+  width: 500px;
+
+}
+.num4{
+  background-color: yellow;
+  height: 120px;
+width: 250px;
+
+}
+.num5{background-color: silver;
+height: 80px;
+
+
+}
+.num6{
+  background-color: green;
+
+  height: 80px;
+  width: 140px;
+}
+
+.num7{
+  height: 60px;
+
+
+background-color: gold;
+}
+.num8{
+  height: 60px;
+
+
+  background-color: blue;
+}
+.num9{
+  height: 60px;
+
+
+  background-color: red;
+}
+.num10{
+  height: 60px;
+
+
+  background-color: yellow;
+}
+.num11{
+  height: 60px;
+
+
+  background-color: gold;
+}
+.num12{
+  height: 60px;
+
+
+  background-color: green;
+}
